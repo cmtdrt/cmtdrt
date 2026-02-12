@@ -10,6 +10,6 @@ Feel free to explore my repositories — they reflect my learning journey, exper
 
 ### Two truths and a lie
 
-- ☕ I may be in love with coffee  
-- 🎬 I've never watched Star Wars  
-- 💻 I've never broken production code
+- I may be in love with coffee ☕
+- I've never watched Star Wars  
+- I've never broken production code
