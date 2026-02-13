@@ -14,8 +14,6 @@ Feel free to explore my repositories — they reflect my learning journey, exper
 - I've never watched Star Wars  
 - I've never broken production code
 
-
-## Tech Stack:
 ## Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
