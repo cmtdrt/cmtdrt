@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Clément, a French junior developer passionate about building things and exploring new technologies.
+I’m a French junior developer who loves building things and exploring new technologies.
 
 I mainly work with **Angular** and **Java Spring Boot**, but you’ll also find quite a bit of **Go** and **Rust** on my profile — two languages I genuinely enjoy working with and experimenting with.
 
